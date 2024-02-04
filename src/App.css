@@ -1,0 +1,81 @@
+.tablebody th{
+
+  padding: 10px 5px;
+  color: #7c7e84;
+ 
+}
+
+table thead{
+  width: 70%;
+}
+
+.saveandsubmit {
+  background-color: #241789;
+  width: 100px;
+  color: white;
+  border: 2px solid black;
+  border-radius: 4px;
+  height: 35px;
+}
+
+.tablehead th{
+  background-color: #f9cfde;
+  
+}
+
+.toolbar {
+  background: #19105B;
+  color: white;
+  font-size: 13px;
+  align-items: center;
+  display: flex;
+  height: 35px;
+  padding-left: 10px !important;
+}
+
+
+.rightpart1 {
+  margin: 20px;
+  width: 80%;
+}
+
+.menu_part {
+  background: linear-gradient(#1d1363, #fe5b91);
+  color: white;
+  width: 20%;
+  height: 100vh;
+}
+
+li {
+  list-style-type: none;
+  cursor: pointer;
+  padding: 9px 9px 9px 0px;
+
+}
+
+.home_new {
+  display: flex;
+}
+
+.username {
+  margin-top: 100%;
+}
+
+tr td input {
+  width: 100%;
+}
+.one{
+  text-indent:50px;
+  
+}
+.two{
+  text-indent: 30px;
+}
+.five{
+
+  color:rgb(9, 9, 67);
+}
+.six{
+
+  color:rgb(9, 9, 67);
+}
